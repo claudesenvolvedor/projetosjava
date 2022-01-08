@@ -1,0 +1,29 @@
+
+public class Aulas {
+	public static void main(String[] args)
+
+	{
+		String nome = "Vamos aprender Java";
+		System.out.println(nome);
+
+		
+		System.out.println("");
+	
+		//Segundo Ecercício
+
+		System.out.println("Operação de adição declarando um valor direto a variável a e variável b, e fazendo a soma apresentando o resultado");
+		
+		int a = 8;
+		int b = 5;
+		int resultado = a + b;
+		
+		
+		System.out.println("o valor de a é =" + a);
+		System.out.println("ovalor de b é =" + b);
+		System.out.println("o resultado da adição entre a + b é = " + resultado);
+	
+		
+	
+	}
+
+}

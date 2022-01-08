@@ -1,0 +1,11 @@
+
+public class Aulas {
+	public static void main(String[] args)
+
+	{
+		String nome = "Vamos aprender Java";
+		System.out.println(nome);
+
+	}
+
+}
