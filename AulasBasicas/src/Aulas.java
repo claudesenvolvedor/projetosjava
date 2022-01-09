@@ -1,11 +1,27 @@
 public class Aulas {
 	public static void main(String[] args)
-		
 
 	{
+		System.out.println("Olá Mundo!!");
+
 		String nome = "Vamos aprender Java";
 		System.out.println(nome);
 
+		System.out.println("Declarando variáveis simples");
+		String meuNome = "Clau Pinheiro";
+		int idade = 43;
+		char sexo = 'm';
+		double temperatura = 35.5;
+		boolean quente = true;
+
+		System.out.println(meuNome);
+		System.out.println("Tenho" + idade + "anos");
+
+		System.out.println("sexo :" + sexo);
+
+		System.out.println("Na cidade de Manaus está atualmente com :" + temperatura + " graus");
+
+		System.out.println("É verdadeiro dizer que aqui na região Norte é muito quente !" + quente);
 		System.out.println("");
 
 		// Segundo Ecercício
@@ -27,15 +43,12 @@ public class Aulas {
 
 		int c = 7;
 		int d = 5;
-int 	sub = c - d;
-		
-System.out.println("o valor de c é 7");
-System.out.println("o valor de d é 5");
-System.out.println("o resultado da subtração é = " + sub);
-		
-		
+		int sub = c - d;
 
-		
+		System.out.println("o valor de c é 7");
+		System.out.println("o valor de d é 5");
+		System.out.println("o resultado da subtração é = " + sub);
+
 	}
 
 }

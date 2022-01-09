@@ -1,5 +1,7 @@
-#Teste de Aulas de Git e Curso de Java Básico
-#fazendo teste com criação de branch
-#novos exercícios de java
-#outras operações em java
-#multiplicando em java
+# Aulas Básicas de Introdução ao Java usando a IDE Eclipse
+
+# Criando o primeiro programa Java HelloWorld
+
+# Aprendendo a criar variáveis simples int, double, String, Char, Bool
+
+# Primeiros passos com operações matemáticas adição e subtração
