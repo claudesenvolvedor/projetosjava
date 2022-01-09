@@ -21,21 +21,6 @@ public class Aulas {
 		System.out.println("ovalor de b é =" + b);
 		System.out.println("o resultado da adição entre a + b é = " + resultado);
 
-		System.out.println();
-
-		System.out.println("operação com subtração");
-
-		int c = 7;
-		int d = 5;
-int 	sub = c - d;
-		
-System.out.println("o valor de c é 7");
-System.out.println("o valor de d é 5");
-System.out.println("o resultado da subtração é = " + sub);
-		
-		
-
-		
 	}
 
 }

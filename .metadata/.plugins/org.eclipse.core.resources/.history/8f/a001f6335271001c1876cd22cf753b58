@@ -28,10 +28,7 @@ public class Aulas {
 		int c = 7;
 		int d = 5;
 int 	sub = c - d;
-		
-System.out.println("o valor de c é 7");
-System.out.println("o valor de d é 5");
-System.out.println("o resultado da subtração é = " + sub);
+		System.out.println(sub);
 		
 		
 
