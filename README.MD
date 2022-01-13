@@ -5,3 +5,5 @@
 # Aprendendo a criar variáveis simples int, double, String, Char, Bool
 
 # Primeiros passos com operações matemáticas adição e subtração
+
+#operações cimples de multiplicação
